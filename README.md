@@ -8,6 +8,15 @@ The game was developed for the module [CS3247 Game Development](https://nusmods.
 
 The game was developed using Unreal Engine 4.24.3, for PC.
 
+## FAQ
+To connect a gamepad to the game, please follow these steps:
+
+1. Open Steam overlay with Shift + Tab
+2. In the top right corner, click 'Controller Configuration'
+3. On the bottom of the Controller Configurator, click 'Browse Configs'
+4. Select Templates -> Gamepad
+5. On the bottom, click 'Apply Configuration'
+
 ## Credits
 
 ### Assets
