@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content:center;">
-    <img src="Content/UI/beamerman_title_logo.PNG" width="600px"/>
+    <img src="Content/UI/beamerman_logo_with_background.png" width="600px"/>
 </div>
 
 Beamerman is a fast-paced isometric action game, in which players fire lazer beams and strategically reflect them to defeat their enemies while trying to avoid catching themselves in the crossfire. The game largely takes its inspiration from classics such as Bomberman and Playing With Fire 2.
